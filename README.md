@@ -12,3 +12,6 @@ In this build spec declaration:
 •	version represents the version of the build spec standard being used. This build spec declaration uses the latest version,0.2.
 •	phases represents the build phases during which you can instruct AWS CodeBuild to run commands. These build phases are listed here as install, pre_build, build, and post_build
 •	artifacts represents the set of build output artifacts that AWS CodeBuild will upload to the output bucket
+
+
+# Adding line for mirror sync testing to gitlab
